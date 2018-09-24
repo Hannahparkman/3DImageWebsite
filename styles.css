@@ -1,0 +1,165 @@
+* {
+    text-align: center;
+    margin: 0 auto;
+    font-size: 2vw;
+    background-color: #D0E37F; 
+    color: #4F3824;
+}
+
+
+nav {
+    padding: 10px;
+    font-family: 'Rambla', sans-serif;
+}
+
+nav li {
+    display: inline-block;
+}
+
+.topbutton {
+    text-decoration: none;
+    background-color: white;
+    padding: 10px 22px;
+    color: #4F3824;
+    border-radius: 10px;
+
+}
+
+.topbutton:hover {
+    text-decoration: none;
+    background-color: #D1603D;
+    padding: 10px 22px;
+    color: white;
+    border-radius: 10px;
+}
+
+
+p {
+    line-height: 170%;
+    margin-top: 20px;
+    font-family: 'Tajawal', sans-serif;
+
+}
+
+h1 {
+    margin-top: 40px;
+    font-size: 4vw;
+    font-family: 'Rambla', sans-serif;
+
+}
+
+h2 {
+    margin-top: 20px;
+    font-family: 'Tajawal', sans-serif;
+    text-decoration: underline;
+}
+
+
+
+a {
+    font-weight: bold;
+    color: #1CAAD9;
+    text-decoration: none;
+    
+}
+
+.logoimage {
+    outline: inherit;
+    outline-color: white;
+    padding-left: 25px;
+    padding-right: 30px;
+    padding-top: 80px;
+    float: left;
+    display: inline-block;
+    width: 35%;
+    height: auto;
+
+}
+
+
+
+.programmeparagraph {
+    text-align: left;
+    float: center;
+    padding-left: 300px;
+    padding-right: 20px;
+    padding-top: 55px;
+    font-size: 2.1vw;
+}
+
+
+.toolsparagraph {
+    padding: 0px;
+    margin-top: 5px;
+    margin-left: 2px;
+    text-align: left;
+    padding-left: 60px;
+    padding-right: 60px;
+    font-size: 2vw;
+}
+
+.tooldiv {
+    
+    margin-top: 40px;
+
+}
+
+.browserimage {
+    margin-top: 30px;
+    width: 70%;
+    height: auto;
+}
+
+.shapeparagraph {
+    padding-top: 40px;
+    float: left;
+    width: 25vw;
+    display: inline-block;
+    
+}
+
+.sizeparagraph {
+    padding-top: 40px;
+    float: center;
+    width: 25vw;
+    display: inline-block;
+    
+}
+
+
+.colourparagraph {
+    padding-top: 40px;
+    float: right;
+    width: 25vw;
+    display: inline-block;
+    
+    
+}
+
+.numbercircle {
+    width: 45%;
+    height: auto;
+}
+
+.objectheadings {
+    font-size: 3vw;
+}
+
+.lineimage {
+    padding-top: 40px;
+    margin-left: 6vw;
+    width: 1px;
+    height: 65vw;
+    float: left;
+    display: inline-block;
+}
+
+
+.lineimage2 {
+    padding-top: 40px;
+    margin-left: 6vw;
+    width: 1px;
+    height: 65vw;
+    float: center;
+    display: inline-block;
+}
